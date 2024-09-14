@@ -14,7 +14,7 @@
 - Menu Items: The food and drink options available at each branch.
 - Locations (Branches): Outlets where Fufu Republic operates.
 - Payments: How customers pay (cash, debit card, online).
-- Inventory: Stock levels of ingredients or menu items at each location.
+- Inventory: Stock levels of ingredients or menu items at each location
   
 #### Relationships:
 
